@@ -8,7 +8,5 @@ try:
 	for i in x:
 		print(i.count('4'))
 
-
-
 except:
 	pass
